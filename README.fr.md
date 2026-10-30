@@ -4,8 +4,12 @@
 <a href="README.md">🇬🇧 English version</a> · <a href="#le-plan-3d-en-direct">Plan 3D</a> · <a href="#les-cartes">Cartes</a> · <a href="#comment-ça-marche">Comment ça marche</a>
 </p>
 
-**maison-3d** est un projet domotique personnel pour [Home Assistant](https://www.home-assistant.io/) : un **plan 3D en direct d'une maison de trois niveaux** qui reflète l'état réel des appareils, et une famille de **cartes de tableau de bord** écrites de zéro en JavaScript pur (sans framework, sans compilation, sans dépendance).
-La maison vient d'une petite **chaîne qui transforme un plan [Sweet Home 3D](https://www.sweethome3d.com/) en scène glTF légère**.
+<p align="center">
+<b>maison-3d</b> est un projet domotique personnel pour <a href="https://www.home-assistant.io/">Home Assistant</a> :<br>
+un <b>plan 3D en direct d'une maison de trois niveaux</b> qui reflète l'état réel des appareils,<br>
+et une famille de <b>cartes de tableau de bord</b> écrites de zéro en JavaScript pur (sans framework, sans compilation, sans dépendance).<br>
+La maison vient d'une petite <b>chaîne qui transforme un plan <a href="https://www.sweethome3d.com/">Sweet Home 3D</a> en scène glTF légère</b>.
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Home%20Assistant-cartes%20personnalis%C3%A9es-41BDF5?style=flat-square" alt="">
