@@ -68,9 +68,7 @@ More on the pipeline in [model3d/README.md](model3d/README.md).
 | `maison-align.js` | stretches the last card of each column so all columns end at the same level |
 
 <table>
-<tr><td align="center" valign="top"><b>Switches & ambiances</b><br><img src="docs/screenshots/carte-interrupteurs.png" width="300"></td><td align="center" valign="top"><b>Robot</b><br><img src="docs/screenshots/carte-robot.png" width="300"></td><td align="center" valign="top"><b>Living room</b><br><img src="docs/screenshots/carte-salon.png" width="300"></td></tr>
-<tr><td align="center" valign="top"><b>Rooms & lights</b><br><img src="docs/screenshots/carte-lumieres.png" width="300"></td><td align="center" valign="top"><b>Pets</b><br><img src="docs/screenshots/cartes-animaux.png" width="300"></td><td align="center" valign="top"><b>System</b><br><img src="docs/screenshots/cartes-systeme.png" width="300"></td></tr>
-<tr><td align="center" valign="top"><b>Navigation button</b><br><img src="docs/screenshots/bouton-navigation.png" width="200"></td></tr>
+<tr><td align="center" valign="top"><b>Switches & ambiances</b><br><img src="docs/screenshots/carte-interrupteurs.png" width="140"><br><br><b>Rooms & lights</b><br><img src="docs/screenshots/carte-lumieres.png" width="140"></td><td align="center" valign="top"><b>Robot</b><br><img src="docs/screenshots/carte-robot.png" width="140"></td><td align="center" valign="top"><b>Living room</b><br><img src="docs/screenshots/carte-salon.png" width="140"></td><td align="center" valign="top"><b>Pets</b><br><img src="docs/screenshots/cartes-animaux.png" width="140"></td><td align="center" valign="top"><b>System</b><br><img src="docs/screenshots/cartes-systeme.png" width="140"></td><td align="center" valign="top"><b>Navigation button</b><br><img src="docs/screenshots/bouton-navigation.png" width="140"></td></tr>
 </table>
 
 ### Design choices

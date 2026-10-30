@@ -68,9 +68,7 @@ Plus de détails sur la chaîne : [model3d/README.md](model3d/README.md).
 | `maison-align.js` | étire la dernière carte de chaque colonne pour que toutes finissent au même niveau |
 
 <table>
-<tr><td align="center" valign="top"><b>Interrupteurs et ambiances</b><br><img src="docs/screenshots/carte-interrupteurs.png" width="300"></td><td align="center" valign="top"><b>Robot</b><br><img src="docs/screenshots/carte-robot.png" width="300"></td><td align="center" valign="top"><b>Salon</b><br><img src="docs/screenshots/carte-salon.png" width="300"></td></tr>
-<tr><td align="center" valign="top"><b>Pièces et lumières</b><br><img src="docs/screenshots/carte-lumieres.png" width="300"></td><td align="center" valign="top"><b>Animaux</b><br><img src="docs/screenshots/cartes-animaux.png" width="300"></td><td align="center" valign="top"><b>Système</b><br><img src="docs/screenshots/cartes-systeme.png" width="300"></td></tr>
-<tr><td align="center" valign="top"><b>Bouton de navigation</b><br><img src="docs/screenshots/bouton-navigation.png" width="200"></td></tr>
+<tr><td align="center" valign="top"><b>Interrupteurs et ambiances</b><br><img src="docs/screenshots/carte-interrupteurs.png" width="140"><br><br><b>Pièces et lumières</b><br><img src="docs/screenshots/carte-lumieres.png" width="140"></td><td align="center" valign="top"><b>Robot</b><br><img src="docs/screenshots/carte-robot.png" width="140"></td><td align="center" valign="top"><b>Salon</b><br><img src="docs/screenshots/carte-salon.png" width="140"></td><td align="center" valign="top"><b>Animaux</b><br><img src="docs/screenshots/cartes-animaux.png" width="140"></td><td align="center" valign="top"><b>Système</b><br><img src="docs/screenshots/cartes-systeme.png" width="140"></td><td align="center" valign="top"><b>Bouton de navigation</b><br><img src="docs/screenshots/bouton-navigation.png" width="140"></td></tr>
 </table>
 
 ### Choix de conception
