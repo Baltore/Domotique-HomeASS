@@ -1,0 +1,22 @@
+# secrets et accès
+.env
+token*
+*.pem
+*_key
+*_key.pub
+known_hosts
+# configuration personnelle du pipeline 3D (identifiants d'entités de ta maison)
+model3d/config.json
+model3d/private_*.json
+*.log
+# plans et modèles personnels (ne jamais publier le plan réel d'une maison)
+*.sh3d
+*.pdf
+*.obj
+*.mtl
+/model3d/out/
+/model3d/*.glb
+# sorties locales
+__pycache__/
+*.pyc
+chr*/

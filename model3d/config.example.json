@@ -1,0 +1,20 @@
+{
+  "areas": [
+    { "area": "living_room", "room": "Salon", "level": 0 },
+    { "area": "kitchen", "room": "Cuisine", "level": 0 },
+    { "area": "master_bedroom", "room": "Chambre parentale", "level": 1 }
+  ],
+  "area_lights": {
+    "living_room": ["light.demo_living_ceiling", "light.demo_living_lamp"]
+  },
+  "devices": [
+    { "kind": "media", "match": "^TV", "level": 0, "entity": "media_player.demo_tv", "icon": "mdi:television", "name": "TV salon" },
+    { "kind": "sensor", "match": "^Frigo", "level": 0, "entity": "sensor.demo_fridge_temperature", "icon": "mdi:fridge", "name": "Frigo", "unit": "°C" },
+    { "kind": "robot", "match": "^Robot", "level": 0, "entity": "vacuum.demo_ground_floor", "icon": "mdi:robot-vacuum", "name": "Robot", "battery": "sensor.demo_ground_floor_battery" }
+  ],
+  "entities": {
+    "router_wan": "binary_sensor.demo_router_wan",
+    "printer_state": "sensor.demo_printer_state"
+  },
+  "room_script": "toggle_area_lights"
+}
