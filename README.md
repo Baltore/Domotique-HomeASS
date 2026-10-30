@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/banner.svg" alt="Maison-3d" width="100%"></p>
+<p align="center"><img src="docs/banner.svg" alt="maison-3d" width="100%"></p>
 
 <p align="center">
 <a href="README.fr.md">🇫🇷 Version française</a> · <a href="#the-live-3d-plan">3D plan</a> · <a href="#the-cards">Cards</a> · <a href="#how-it-works">How it works</a>
