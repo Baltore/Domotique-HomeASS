@@ -4,8 +4,8 @@
 <a href="README.fr.md">🇫🇷 Version française</a> · <a href="#the-live-3d-plan">3D plan</a> · <a href="#the-cards">Cards</a> · <a href="#how-it-works">How it works</a>
 </p>
 <p align="center">
-**maison-3d** is a personal smart-home project for [Home Assistant](https://www.home-assistant.io/): a **live 3D plan of a three-storey house** that mirrors the real state of its devices, and a family of **dashboard cards** written from scratch in plain JavaScript (no framework, no build step, no dependency).
-The house comes from a small **pipeline that turns a [Sweet Home 3D](https://www.sweethome3d.com/) plan into a light glTF scene**.
+**maison-3d** is a personal smart-home project for Home Assistant : a **live 3D plan of a three-storey house** that mirrors the real state of its devices, and a family of **dashboard cards** written from scratch in plain JavaScript (no framework, no build step, no dependency).
+The house comes from a small **pipeline that turns a Sweet Home 3D plan into a light glTF scene**.
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Home%20Assistant-custom%20cards-41BDF5?style=flat-square" alt="">
